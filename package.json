@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-webcam-barcode-scanner": "^0.0.2-rc2"
+  }
+}
